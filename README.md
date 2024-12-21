@@ -137,6 +137,11 @@ Cuando haya compilado el código y corra la simulación, verás los valores y lo
 
 ![]( https://github.com/leal-97/ESP32-con--Sensor-DHT22-Sensor-Ultrasonic-y-LCD/blob/main/distancia.jpeg )
 
+## Referencias
+
+- Sensor ultrasónico HC-SR04. (s.f.). Transtronix. https://transtronix.com.mx/productos/sensor-ultrasonico-hc-sr04/?srsltid=AfmBOoo2PRtZH3TYMrjSWNY0K-zpGZCoLoRpQKGxj_-p06fbH3TMoraF
+- ESP32 30 Pines. (s.f.). Transtronix. https://transtronix.com.mx/productos/esp32-30-pines/?srsltid=AfmBOoo9Q1Vc1XVCLC0ZsFSZCIyZ97hdDYoH6Qf2gwDvs2M-5pUDvXv5
+- Sensor de humedad y temperatura DHT22. (s.f.). Transtronix. https://transtronix.com.mx/productos/sensor-de-humedad-y-temperatura-dht22/?srsltid=AfmBOoo2GcDGu0hr44E75_ZvkYeEb_3f_b8i974KTgGTsq6kfgWZMjGH
 
 ## Créditos
 Desarrollado por: **Ing. Mecánico Eduardo Leal**
