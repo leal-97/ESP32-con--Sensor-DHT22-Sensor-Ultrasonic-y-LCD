@@ -28,6 +28,21 @@ Características Principales:
 - Proyectos de automatización del hogar.
 - Dispositivos de control ambiental y climatización.
 
+## HC-SR04: Sensor Ultrasónico de Distancia
+El HC-SR04 es un sensor ultrasónico de distancia ampliamente utilizado para medir distancias sin contacto de manera precisa y eficiente. Este dispositivo utiliza ondas ultrasónicas para calcular la distancia entre el sensor y un objeto, proporcionando así una solución efectiva para proyectos de detección de proximidad.
+**Características Principales:**
+-	**Principio de Funcionamiento:** Emite pulsos ultrasónicos y mide el tiempo que tardan en regresar después de rebotar en un objeto.
+-	**Rango de Medición:** Generalmente, tiene un rango de medición de 2 cm a 4 metros.
+-	**Bajo Costo:** Es una opción asequible para aplicaciones de medición de distancia.
+
+**Cómo Funciona:**
+
+-	**Trigger (Disparador):** Se envía un pulso de 10 µs para activar el sensor.
+- **Transmisión de Pulsos Ultrasónicos:** El sensor emite una serie de pulsos ultrasónicos.
+-	**Recepción de Eco:** El sensor espera el eco reflejado desde el objeto.
+-	**Cálculo de Distancia:** La distancia se calcula midiendo el tiempo que tarda en regresar el eco.
+
+
 ## Material
 - https://wokwi.com/
 - ESP32
