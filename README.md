@@ -132,7 +132,9 @@ void loop()
 Cuando haya compilado el código y corra la simulación, verás los valores y los textos en la pantalla LCD como se muestran en las siguentes imagenes cada 2s.
 
 ![]( https://github.com/leal-97/ESP32-con--Sensor-DHT22-Sensor-Ultrasonic-y-LCD/blob/main/dip%20sonic.jpeg )
+
 ![]( https://github.com/leal-97/ESP32-con--Sensor-DHT22-Sensor-Ultrasonic-y-LCD/blob/main/distancia.jpeg )
+
 ![]( https://github.com/leal-97/ESP32-con--Sensor-DHT22-Sensor-Ultrasonic-y-LCD/blob/main/leal%20ultra.jpeg )
 
 
