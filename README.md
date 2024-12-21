@@ -133,9 +133,9 @@ Cuando haya compilado el código y corra la simulación, verás los valores y lo
 
 ![]( https://github.com/leal-97/ESP32-con--Sensor-DHT22-Sensor-Ultrasonic-y-LCD/blob/main/dip%20sonic.jpeg )
 
-![]( https://github.com/leal-97/ESP32-con--Sensor-DHT22-Sensor-Ultrasonic-y-LCD/blob/main/distancia.jpeg )
-
 ![]( https://github.com/leal-97/ESP32-con--Sensor-DHT22-Sensor-Ultrasonic-y-LCD/blob/main/leal%20ultra.jpeg )
+
+![]( https://github.com/leal-97/ESP32-con--Sensor-DHT22-Sensor-Ultrasonic-y-LCD/blob/main/distancia.jpeg )
 
 
 ## Créditos
